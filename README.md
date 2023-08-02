@@ -15,3 +15,7 @@ Innovative problem solver and coding enthusiast | Crafting clean and efficient c
 <!-- ### My Favorite Project Repos -->
 
 ![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akgec-saurabh&show_icons=true&theme=dark)
+
+### Featured Project
+Ecommerce Application with redux thunk and rtk query
+Link -https://store.ssaurabh.com/
