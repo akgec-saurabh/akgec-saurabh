@@ -19,6 +19,6 @@ Innovative problem solver and coding enthusiast | Crafting clean and efficient c
 ### Featured Project
 Ecommerce Application with redux thunk and rtk query
 #### First Version - https://store.ssaurabh.com/ (with redux thunk)
-#### Second Version - https://store2.ssaurabh.com/ (replaced redux thunk with rtk query)
+#### Second Version - https://store2.ssaurabh.com/ (replaced redux thunk with rtk query and Forms with Formik)
 #### Repo - https://github.com/akgec-saurabh/Furniture-Store-Ecommerce
 ![](https://raw.githubusercontent.com/akgec-saurabh/Furniture-Store-Ecommerce/main/mywebsite.gif)
