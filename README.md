@@ -45,12 +45,6 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=akgec-saurabh&theme=darkhub)  
-
----
-
 ## 🔥 GitHub Activity  
 
 ![Saurabh's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akgec-saurabh&theme=react-dark)  
