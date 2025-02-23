@@ -7,10 +7,7 @@
 ---
 
 ## ⚡ My Setup  
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">  
-<img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=white">  
-<img src="https://img.shields.io/badge/Kitty_Terminal-F7DF1E?style=for-the-badge&logo=windows-terminal&logoColor=black">  
-<img src="https://img.shields.io/badge/Fish_Shell-34C534?style=for-the-badge&logo=gnu-bash&logoColor=white">  
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=wayland&logoColor=white">  <img src="https://img.shields.io/badge/Kitty_Terminal-F7DF1E?style=for-the-badge&logo=windows-terminal&logoColor=black">  <img src="https://img.shields.io/badge/Fish_Shell-34C534?style=for-the-badge&logo=gnu-bash&logoColor=white">  
 
 🔗 **Dotfiles & Configurations:** [GitHub - Dotfiles](https://github.com/akgec-saurabh/dotfiles.git)  
 
